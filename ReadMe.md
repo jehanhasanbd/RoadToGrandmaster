@@ -52,7 +52,6 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-
 | 26 | Print numbers 1 to N | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/26_Print_numbers_1_to_N.cpp)
 | 27 | Print numbers N to 1 | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/27_Print_numbers_N_to_1.cpp)
 | 28 | Print all even numbers up to N | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/28_Print_all_even_numbers_up_to_N.cpp)
@@ -71,12 +70,12 @@
 | 41 | Find GCD of two numbers (loop method) | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/41_Find_GCD_of_two_numbers_loop_method.cpp)
 | 42 | Find LCM of two numbers | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/42_Find_LCM_of_two_numbers.cpp)
 | 43 | Check if number is prime | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/43_Check_if_number_is_prime.cpp)
-| 44 | Print all primes in range [L, R] (Sieve of Eratosthenes) | [⏳ pending]()
-| 45 | Print multiplication table of a number | [⏳ pending]()
-| 46 | Print all factors/divisors of a number | [⏳ pending]()
-| 47 | Count number of divisors of a number | [⏳ pending]()
-| 48 | Compute sum of divisors of a number | [⏳ pending]()
-| 49 | Compute (1 + 1/2 + 1/3 + … + 1/N) (double) | [⏳ pending]()
+| 44 | Print all primes in range [L, R] (Sieve of Eratosthenes) | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/44_Print_all_primes_in_range_Sieve_of_Eratosthenes.cpp)
+| 45 | Print multiplication table of a number | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/45_Print_multiplication_table_of_a_number.cpp)
+| 46 | Print all factors/divisors of a number | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/46_Print_all_factors_divisors_of_a_number.cpp)
+| 47 | Count number of divisors of a number | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/47_Count_number_of_divisors_of_a_number.cpp)
+| 48 | Compute sum of divisors of a number | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/48_Compute_sum_of_divisors_of_a_number.cpp)
+| 49 | Compute (1 + 1/2 + 1/3 + … + 1/N) (double) | [🔗 code](Section-1_Programming_Fundamentals/B_Loops_Patterns/49_Compute_series_sum_using_double.cpp)
 | 50 | Count trailing zeros in factorial N (basic approach) | [⏳ pending]()
 | 51 | Pattern: right triangle of `*` | [⏳ pending]()
 | 52 | Pattern: inverted triangle of `*` | [⏳ pending]()
