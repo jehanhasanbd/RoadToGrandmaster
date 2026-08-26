@@ -90,14 +90,14 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 56 | Read an array and print it | [⏳ pending]()
-| 57 | Find sum of array elements | [⏳ pending]()
-| 58 | Find average of array elements | [⏳ pending]()
-| 59 | Find maximum element in array | [⏳ pending]()
-| 60 | Find minimum element in array | [⏳ pending]()
-| 61 | Find second maximum element | [⏳ pending]()
-| 62 | Find second minimum element | [⏳ pending]()
-| 63 | Count even and odd elements | [⏳ pending]()
+| 56 | Read an array and print it | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/56_Read_an_array_and_print_it.cpp)
+| 57 | Find sum of array elements | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/57_Find_sum_of_array_elements.cpp)
+| 58 | Find average of array elements | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/58_Find_average_of_array_elements.cpp)
+| 59 | Find maximum element in array | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/59_Find_maximum_element_in_array.cpp)
+| 60 | Find minimum element in array | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/60_Find_minimum_element_in_array.cpp)
+| 61 | Find second maximum element | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/61_Find_second_maximum_element.cpp)
+| 62 | Find second minimum element | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/62_Find_second_minimum_element.cpp)
+| 63 | Count even and odd elements | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/63_Count_even_and_odd_elements.cpp)
 | 64 | Count positive, negative, and zeros | [⏳ pending]()
 | 65 | Reverse an array in-place | [⏳ pending]()
 | 66 | Rotate array left by 1 | [⏳ pending]()
