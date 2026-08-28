@@ -98,14 +98,14 @@
 | 61 | Find second maximum element | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/61_Find_second_maximum_element.cpp)
 | 62 | Find second minimum element | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/62_Find_second_minimum_element.cpp)
 | 63 | Count even and odd elements | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/63_Count_even_and_odd_elements.cpp)
-| 64 | Count positive, negative, and zeros | [⏳ pending]()
-| 65 | Reverse an array in-place | [⏳ pending]()
-| 66 | Rotate array left by 1 | [⏳ pending]()
-| 67 | Rotate array right by 1 | [⏳ pending]()
-| 68 | Rotate array left by K | [⏳ pending]()
-| 69 | Rotate array right by K | [⏳ pending]()
-| 70 | Check if array is sorted (non-decreasing) | [⏳ pending]()
-| 71 | Remove duplicates from sorted array (in-place) | [⏳ pending]()
+| 64 | Count positive, negative, and zeros | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/64_Count_positive_negative_and_zeros.cpp)
+| 65 | Reverse an array in-place | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/65_Reverse_an_array_in-place.cpp)
+| 66 | Rotate array left by 1 | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/66_Rotate_array_left_by_1.cpp)
+| 67 | Rotate array right by 1 | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/67_Rotate_array_right_by_1.cpp)
+| 68 | Rotate array left by K | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/68_Rotate_array_left_by_K.cpp)
+| 69 | Rotate array right by K | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/69_Rotate_array_right_by_K.cpp)
+| 70 | Check if array is sorted (non-decreasing) | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/70_Check_if_array_is_sorted.cpp)
+| 71 | Remove duplicates from sorted array (in-place) | [🔗 code](Section-1_Programming_Fundamentals/C_Arrays_Basics/71_Remove_duplicates_from_sorted_array.cpp)
 | 72 | Find frequency of each element (basic) | [⏳ pending]()
 | 73 | Find element with highest frequency | [⏳ pending]()
 | 74 | Find all duplicate elements | [⏳ pending]()
@@ -462,6 +462,10 @@
 
 <details>
 <summary><b>🌿 Binary Tree Basics</b></summary>
+
+<div align="center">
+  <img src="<img src="https://github.com/jehanhasanbd/RoadToGrandmaster/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/img/BT.png">" width="350" alt="Topological Sort">
+</div>
 
 | # | Problem | Solution |
 |---|---------|----------|
