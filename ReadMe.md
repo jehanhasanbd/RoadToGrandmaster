@@ -464,7 +464,7 @@
 <summary><b>🌿 Binary Tree Basics</b></summary>
 
 <div align="center">
-  <img src="./img/BT.png" alt="Project Image" height="380" width="406">
+  <img src="./img/BT.png" alt="Project Image" width="350">
 </div>
 
 | # | Problem | Solution |
