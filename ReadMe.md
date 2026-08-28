@@ -463,6 +463,9 @@
 <details>
 <summary><b>🌿 Binary Tree Basics</b></summary>
 
+<div align="center">
+  <img src="./img/BT.png" alt="Project Image" height="380" width="406">
+</div>
 
 | # | Problem | Solution |
 |---|---------|----------|
