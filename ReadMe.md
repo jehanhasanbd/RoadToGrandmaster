@@ -463,9 +463,6 @@
 <details>
 <summary><b>🌿 Binary Tree Basics</b></summary>
 
-<div align="center">
-  <img src="<img src="https://github.com/jehanhasanbd/RoadToGrandmaster/blob/d4a2465e5693ad6d88927d1f44787193c09884ee/img/BT.png">" width="350" alt="Topological Sort">
-</div>
 
 | # | Problem | Solution |
 |---|---------|----------|
