@@ -469,14 +469,14 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 99 | Inorder traversal | [⏳ pending]()
-| 100 | Preorder traversal | [⏳ pending]()
-| 101 | Postorder traversal | [⏳ pending]()
-| 102 | Level order traversal | [⏳ pending]()
-| 103 | Height of tree | [⏳ pending]()
-| 104 | Count nodes | [⏳ pending]()
-| 105 | Count leaf nodes | [⏳ pending]()
-| 106 | Mirror tree | [⏳ pending]()
+| 99 | Inorder traversal | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/99_Inorder_traversal.cpp)
+| 100 | Preorder traversal | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/100_Preorder_traversal.cpp)
+| 101 | Postorder traversal | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/101_Postorder_traversal.cpp)
+| 102 | Level order traversal | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/102_Level_order_traversal.cpp)
+| 103 | Height of tree | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/103_Height_of_tree.cpp)
+| 104 | Count nodes | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/104_Count_nodes.cpp)
+| 105 | Count leaf nodes | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/105_Count_leaf_nodes.cpp)
+| 106 | Mirror tree | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/106_Mirror_tree.cpp)
 | 107 | Check identical trees | [⏳ pending]()
 | 108 | Check symmetric tree | [⏳ pending]()
 
