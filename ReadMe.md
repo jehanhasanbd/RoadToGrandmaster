@@ -14,8 +14,8 @@
 
 ## 📚 Section - 1. Programming Fundamentals
 
-<details open>
-<summary><h3>💻 A) Input/Output, Basics, Conditionals</h3></summary>
+<details>
+<summary><b>💻 A) Input/Output, Basics, Conditionals</b></summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -48,7 +48,7 @@
 </details>
 
 <details>
-<summary><h3>🔄 B) Loops & Patterns</h3></summary>
+<summary><b>🔄 B) Loops & Patterns</b></summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -86,7 +86,7 @@
 </details>
 
 <details>
-<summary><h3>📊 C) Arrays Basics</h3></summary>
+<summary><b>📊 C) Arrays Basics</b></summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -129,7 +129,7 @@
 </details>
 
 <details>
-<summary><h3>📐 D) 2D Arrays / Matrices</h3></summary>
+<summary><b>📐 D) 2D Arrays / Matrices</b></summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -157,7 +157,7 @@
 </details>
 
 <details>
-<summary><h3>📝 E) Strings</h3></summary>
+<summary><b>📝 E) Strings</b></summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -195,7 +195,7 @@
 </details>
 
 <details>
-<summary><h3>🔄 F) Recursion & Backtracking</h3></summary>
+<summary><b>🔄 F) Recursion & Backtracking</b></summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -223,7 +223,7 @@
 </details>
 
 <details>
-<summary><h3>📈 G) Math & Number Theory</h3></summary>
+<summary><b>📈 G) Math & Number Theory</b></summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -246,7 +246,7 @@
 </details>
 
 <details>
-<summary><h3>⚙️ H) Bit Manipulation</h3></summary>
+<summary><b>⚙️ H) Bit Manipulation</b></summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -264,7 +264,7 @@
 </details>
 
 <details>
-<summary><h3>📚 I) STL, Sorting, Searching</h3></summary>
+<summary><b>📚 I) STL, Sorting, Searching</b></summary>
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -469,6 +469,7 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
+
 | 99 | Inorder traversal | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/99_Inorder_traversal.cpp)
 | 100 | Preorder traversal | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/100_Preorder_traversal.cpp)
 | 101 | Postorder traversal | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/101_Postorder_traversal.cpp)
@@ -477,8 +478,8 @@
 | 104 | Count nodes | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/104_Count_nodes.cpp)
 | 105 | Count leaf nodes | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/105_Count_leaf_nodes.cpp)
 | 106 | Mirror tree | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/106_Mirror_tree.cpp)
-| 107 | Check identical trees | [⏳ pending]()
-| 108 | Check symmetric tree | [⏳ pending]()
+| 107 | Check identical trees | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/107_Check_identical_trees.cpp)
+| 108 | Check symmetric tree | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/108_Check_symmetric_tree.cpp)
 
 </details>
 
