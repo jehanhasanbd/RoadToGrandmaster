@@ -545,6 +545,11 @@
 <details>
 <summary><b>⚡ Basics of Graph Algorithms</b></summary>
 
+<div align="center">
+  <img src="./img/images.png" alt="Project Image" width="350">
+</div>
+
+
 | # | Problem | Solution |
 |---|---------|----------|
 | 149 | BFS (Breadth-First Search) | [⏳ pending]()
@@ -558,6 +563,12 @@
 <details>
 <summary><b>⚡ Cycle Detection</b></summary>
 
+
+<div align="center">
+  <img src="./img/download.png" alt="Project Image" width="350">
+</div>
+
+
 | # | Problem | Solution |
 |---|---------|----------|
 | 154 | Check cycle in Undirected Graph (BFS) | [⏳ pending]()
@@ -569,6 +580,14 @@
 
 <details>
 <summary><b>⚡ Topological Sorting</b></summary>
+
+<div align="center">
+  <img src="./img/download2.png" alt="Project Image" width="350">
+</div>
+<div align="center">
+  <img src="./img/dag.png" alt="Project Image" width="350">
+</div>
+
 
 | # | Problem | Solution |
 |---|---------|----------|
@@ -582,13 +601,58 @@
 <details>
 <summary><b>⚡ Shortest Path</b></summary>
 
+<div align="center">
+  <img src="./img/gph3.png" alt="Project Image" width="350">
+</div>
+
+
+
 | # | Problem | Solution |
 |---|---------|----------|
 | 162 | Shortest path in undirected graph (BFS) | [⏳ pending]()
 | 163 | Shortest distance in undirected graph (BFS) | [⏳ pending]()
+
+
+<div align="center">
+  <img src="./img/shortest-path-in-a-directed-acyclic-graph-1-1635369661.png" alt="Project Image" width="350">
+</div>
+
+
+| # | Problem | Solution |
+|---|---------|----------|
 | 164 | Shortest distance from source to all node (weighted DAG) | [⏳ pending]()
+
+
+<div align="center">
+  <img src="./img/untitled-diagram-15-6327.jpg" alt="Project Image" width="350">
+</div>
+
+
+| # | Problem | Solution |
+|---|---------|----------|
 | 165 | Dijkstra's algorithm (Weighted Graph) | [⏳ pending]()
+
+
+<div align="center">
+  <img src="./img/colimage-11780.png" alt="Project Image" width="350">
+</div>
+
+<div align="center">
+  <img src="./img/negCyc.png" alt="Project Image" width="350">
+</div>
+
+
+| # | Problem | Solution |
+|---|---------|----------|
 | 166 | Bellman-Ford (Weighted Graph with negative edges) | [⏳ pending]()
+
+<div align="center">
+  <img src="./img/weiGraph4.png" alt="Project Image" width="350">
+</div>
+
+
+| # | Problem | Solution |
+|---|---------|----------|
 | 167 | Floyd-Warshall (All pair shortest path) | [⏳ pending]()
 
 </details>
