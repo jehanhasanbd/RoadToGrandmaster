@@ -3,28 +3,34 @@
 
 using namespace std;
 
-void dfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visited, vector<int> &component, int source) {
-    component.push_back(source);
+bool dfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visited, int parent, int source) {
     visited[source] = true;
 
     for (auto neighbour: adjList[source]) {
         if (!visited[neighbour]) {
-            dfs(adjList, visited,component,neighbour);
+            bool checkCycle = dfs(adjList, visited,source,neighbour);
+            if (checkCycle) {
+                return true;
+            }
+        }
+        else if (neighbour != parent) {
+            return true;
         }
     }
+    return false;
 }
 
-vector<vector<int>> DFS(unordered_map<int, list<int>> &adjList) {
+bool checkCycleDFS(unordered_map<int, list<int>> &adjList) {
     unordered_map<int, bool> visited;
-    vector<vector<int>> visitedSeq;
     for (auto node: adjList) {
         if (!visited[node.first]) {
             vector<int> component;
-            dfs(adjList, visited, component, node.first);
-            visitedSeq.push_back(component);
+            if(dfs(adjList, visited, -1, node.first)) {
+                return true;
+            }
         }
     }
-    return visitedSeq;
+    return false;
 }
 
 int main() {
@@ -38,6 +44,5 @@ int main() {
     g.addEdge(3,5,false);
     g.addEdge(3,6,false);
     g.addEdge(7,6,false);
-    vector<vector<int>> visitedSeq = DFS(g.adjList);
-    printVisitedSeq(visitedSeq);
+    cout<<checkCycleDFS(g.adjList);
 }
