@@ -469,7 +469,6 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-
 | 99 | Inorder traversal | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/99_Inorder_traversal.cpp)
 | 100 | Preorder traversal | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/100_Preorder_traversal.cpp)
 | 101 | Postorder traversal | [🔗 code](Section-2_DSA/3_Tree/1_Binary_Tree_Basics/101_Postorder_traversal.cpp)
@@ -488,10 +487,10 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 109 | Build tree from traversals | [⏳ pending]()
-| 110 | Maximum path sum | [⏳ pending]()
-| 111 | Zigzag traversal | [⏳ pending]()
-| 112 | Boundary traversal | [⏳ pending]()
+| 109 | Build tree from traversals | [🔗 code](Section-2_DSA/3_Tree/2_Advanced_Binary_Tree/109_Build_tree_from_traversals.cpp)
+| 110 | Maximum path sum | [🔗 code](Section-2_DSA/3_Tree/2_Advanced_Binary_Tree/110_Maximum_path_sum.cpp)
+| 111 | Zigzag traversal | [🔗 code](Section-2_DSA/3_Tree/2_Advanced_Binary_Tree/111_Zigzag_traversal.cpp)
+| 112 | Boundary traversal | [🔗 code](Section-2_DSA/3_Tree/2_Advanced_Binary_Tree/112_Boundary_traversal.cpp)
 | 113 | Vertical traversal | [⏳ pending]()
 | 114 | Top view | [⏳ pending]()
 | 115 | Bottom view | [⏳ pending]()
@@ -553,9 +552,9 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 149 | BFS (Breadth-First Search) | [⏳ pending]()
-| 150 | DFS (Depth-First Search) | [⏳ pending]()
-| 151 | Graph representation (Adjacency matrix vs list) | [⏳ pending]()
+| 149 | BFS (Breadth-First Search) | [🔗 code](Section-2_DSA/4_Graph/1_Basics_of_Graph_Algorithms/149_BFS_Breadth-First_Search.cpp)
+| 150 | DFS (Depth-First Search) | [🔗 code](Section-2_DSA/4_Graph/1_Basics_of_Graph_Algorithms/150_DFS_Depth-First_Search.cpp)
+| 151 | Graph representation (Adjacency matrix vs list) | [🔗 code](Section-2_DSA/4_Graph/1_Basics_of_Graph_Algorithms/151_Graph_representation_Adjacency_matrix_vs_list.cpp)
 | 152 | Count connected components | [⏳ pending]()
 | 153 | Number of islands | [⏳ pending]()
 
