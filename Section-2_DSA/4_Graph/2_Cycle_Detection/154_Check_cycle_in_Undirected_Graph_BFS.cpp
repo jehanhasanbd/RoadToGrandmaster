@@ -35,7 +35,6 @@ bool checkCycleBFS(unordered_map<int, list<int>> &adjList) {
     vector<vector<int>> visitedSeq;
     for (auto node: adjList) {
         if (!visited[node.first]) {
-            vector<int> component;
             if(bfs(adjList, visited, parent, node.first)) {
                 return true;
             }

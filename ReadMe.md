@@ -571,7 +571,6 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-
 | 154 | Check cycle in Undirected Graph (BFS) | [🔗 code](Section-2_DSA/4_Graph/2_Cycle_Detection/154_Check_cycle_in_Undirected_Graph_BFS.cpp)
 | 155 | Check cycle in Undirected Graph (DFS) | [🔗 code](Section-2_DSA/4_Graph/2_Cycle_Detection/155_Check_cycle_in_Undirected_Graph_DFS.cpp)
 | 156 | Check cycle in Directed Graph (DFS) | [⏳ pending]()
