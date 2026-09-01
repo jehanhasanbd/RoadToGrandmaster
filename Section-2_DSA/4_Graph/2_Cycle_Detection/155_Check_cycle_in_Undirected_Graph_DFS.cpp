@@ -3,22 +3,21 @@
 
 using namespace std;
 
-bool dfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visited, unordered_map<int, bool> &dfsVisited, int source) {
+bool dfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visited, int parent, int source) {
     visited[source] = true;
-    dfsVisited[source] = true;
 
     for (auto neighbour: adjList[source]) {
         if (!visited[neighbour]) {
-            bool isCycle = dfs(adjList, visited, dfsVisited, neighbour);
+            bool isCycle = dfs(adjList, visited, source, neighbour);
             if (isCycle) {
                 return true;
             }
         }
-        else if (dfsVisited[neighbour]) {
+        else if (neighbour != parent) {
             return true;
         }
     }
-    dfsVisited[source] = false;
+
     return false;
 }
 
@@ -28,7 +27,7 @@ bool checkCycleDFS(unordered_map<int, list<int>> &adjList) {
     vector<vector<int>> visitedSeq;
     for (auto node: adjList) {
         if (!visited[node.first]) {
-            if(dfs(adjList, visited, dfsVisited, node.first)) {
+            if(dfs(adjList, visited, -1, node.first)) {
                 return true;
             }
 

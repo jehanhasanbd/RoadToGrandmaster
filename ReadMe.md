@@ -573,7 +573,7 @@
 |---|---------|----------|
 | 154 | Check cycle in Undirected Graph (BFS) | [🔗 code](Section-2_DSA/4_Graph/2_Cycle_Detection/154_Check_cycle_in_Undirected_Graph_BFS.cpp)
 | 155 | Check cycle in Undirected Graph (DFS) | [🔗 code](Section-2_DSA/4_Graph/2_Cycle_Detection/155_Check_cycle_in_Undirected_Graph_DFS.cpp)
-| 156 | Check cycle in Directed Graph (DFS) | [⏳ pending]()
+| 156 | Check cycle in Directed Graph (DFS) | [🔗 code](Section-2_DSA/4_Graph/2_Cycle_Detection/156_Check_cycle_in_Directed_Graph_DFS.cpp)
 | 157 | Check cycle in Directed Graph (BFS / Kahn's Algorithm) | [⏳ pending]()
 
 </details>
@@ -582,17 +582,16 @@
 <summary><b>⚡ Topological Sorting</b></summary>
 
 <div align="center">
-  <img src="./img/download2.png" alt="Project Image" width="350">
-</div>
-<div align="center">
+
+[//]: # (  <img src="./img/download2.png" alt="Project Image" width="350">)
   <img src="./img/dag.png" alt="Project Image" width="350">
 </div>
 
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 158 | Topological Sort (using DFS) | [⏳ pending]()
-| 159 | Topological Sort (Kahn's Algorithm) | [⏳ pending]()
+| 158 | Topological Sort (using DFS) | [🔗 code](Section-2_DSA/4_Graph/3_Topological_Sorting/158_Topological_Sort_using_DFS.cpp)
+| 159 | Topological Sort (Kahn's Algorithm) | [🔗 code](Section-2_DSA/4_Graph/3_Topological_Sorting/159_Topological_Sort_Kahn_Algorithm.cpp)
 | 160 | Alien dictionary | [⏳ pending]()
 | 161 | Course schedule | [⏳ pending]()
 
@@ -609,8 +608,8 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 162 | Shortest path in undirected graph (BFS) | [⏳ pending]()
-| 163 | Shortest distance in undirected graph (BFS) | [⏳ pending]()
+| 162 | Shortest path in undirected graph (BFS) | [🔗 code](Section-2_DSA/4_Graph/4_Shortest_Path/162_Shortest_path_in_undirected_graph_BFS.cpp)
+| 163 | Shortest distance in undirected graph (BFS) | [🔗 code](Section-2_DSA/4_Graph/4_Shortest_Path/163_Shortest_distance_in_undirected_graph_BFS.cpp)
 
 
 <div align="center">
@@ -620,7 +619,7 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 164 | Shortest distance from source to all node (weighted DAG) | [⏳ pending]()
+| 164 | Shortest distance from source to all node (weighted DAG) | [🔗 code](Section-2_DSA/4_Graph/4_Shortest_Path/164_Shortest_distance_from_source_to_all_node_weighted_DAG.cpp)
 
 
 <div align="center">
@@ -630,7 +629,7 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 165 | Dijkstra's algorithm (Weighted Graph) | [⏳ pending]()
+| 165 | Dijkstra's algorithm (Weighted Graph) | [🔗 code](Section-2_DSA/4_Graph/4_Shortest_Path/165_Dijkstra_algorithm_Weighted_Graph.cpp)
 
 
 <div align="center">
@@ -644,7 +643,7 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 166 | Bellman-Ford (Weighted Graph with negative edges) | [⏳ pending]()
+| 166 | Bellman-Ford (Weighted Graph with negative edges) | [🔗 code](Section-2_DSA/4_Graph/4_Shortest_Path/166_Bellman-Ford_Weighted_Graph_with_negative_edges.cpp)
 
 <div align="center">
   <img src="./img/weiGraph4.png" alt="Project Image" width="350">
@@ -653,7 +652,7 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 167 | Floyd-Warshall (All pair shortest path) | [⏳ pending]()
+| 167 | Floyd-Warshall (All pair shortest path) | [🔗 code](Section-2_DSA/4_Graph/4_Shortest_Path/167_Floyd-Warshall_All_pair_shortest_path.cpp)
 
 </details>
 

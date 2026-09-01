@@ -4,10 +4,25 @@
 using namespace std;
 
 bool dfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visited, unordered_map<int, bool> &dfsVisited, int source) {
+    visited[source] = true;
+    dfsVisited[source] = true;
 
+    for (auto neighbour: adjList[source]) {
+        if (!visited[neighbour]) {
+            bool isCycle = dfs(adjList, visited, dfsVisited, neighbour);
+            if (isCycle) {
+                return true;
+            }
+        }
+        else if (dfsVisited[neighbour]) {
+            return true;
+        }
+    }
+    dfsVisited[source] = false;
+    return false;
 }
 
-bool checkCycleDirectedDFS(unordered_map<int, list<int>> &adjList) {
+bool checkCycleDFS(unordered_map<int, list<int>> &adjList) {
     unordered_map<int, bool> visited;
     unordered_map<int, bool> dfsVisited;
     vector<vector<int>> visitedSeq;
@@ -16,6 +31,7 @@ bool checkCycleDirectedDFS(unordered_map<int, list<int>> &adjList) {
             if(dfs(adjList, visited, dfsVisited, node.first)) {
                 return true;
             }
+
         }
     }
     return false;
@@ -23,15 +39,15 @@ bool checkCycleDirectedDFS(unordered_map<int, list<int>> &adjList) {
 
 int main() {
     Graph g;
-    g.addEdge(0,1,false);
-    g.addEdge(0,2,false);
-    g.addEdge(0,7,false);
-    g.addEdge(1,4,false);
-    g.addEdge(2,4,false);
-    g.addEdge(2,3,false);
-    g.addEdge(3,5,false);
-    g.addEdge(3,6,false);
-    g.addEdge(7,6,false);
-    cout<< checkCycleDirectedDFS(g.adjList);
+    g.addEdge(1,2,true);
+    g.addEdge(2,3,true);
+    g.addEdge(3,8,true);
+    g.addEdge(8,7,true);
+    g.addEdge(3,7,true);
+    g.addEdge(2,4,true);
+    g.addEdge(4,5,true);
+    g.addEdge(5,6,true);
+    g.addEdge(6,5,true);
+    cout<< checkCycleDFS(g.adjList);
 
 }
