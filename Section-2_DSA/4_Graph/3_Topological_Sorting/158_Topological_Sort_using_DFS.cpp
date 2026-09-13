@@ -5,7 +5,11 @@
 
 using namespace std;
 
-void dfs(unordered_map<int, list<int>> &adjList, unordered_map<int,bool> &visited, stack<int> &st, int source) {
+using ADJLIST = unordered_map<int, list<int>>;
+using BOOLMAP = unordered_map<int, bool>;
+using INTMAP = unordered_map<int, int>;
+
+void dfs(ADJLIST &adjList, BOOLMAP &visited, stack<int> &st, int source) {
     visited[source] = true;
 
     for (auto neighbour: adjList[source]) {
@@ -17,8 +21,8 @@ void dfs(unordered_map<int, list<int>> &adjList, unordered_map<int,bool> &visite
     st.push(source);
 }
 
-vector<int> topologicalSortDFS(unordered_map<int, list<int>> &adjList) {
-    unordered_map<int,bool> visited;
+vector<int> topologicalSortDFS(ADJLIST &adjList) {
+    BOOLMAP visited;
     stack<int> st;
 
     for (auto node: adjList) {

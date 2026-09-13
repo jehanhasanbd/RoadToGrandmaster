@@ -5,10 +5,14 @@
 
 using namespace std;
 
+using ADJLIST = unordered_map<int, list<int>>;
+using BOOLMAP = unordered_map<int, bool>;
+using INTMAP = unordered_map<int, int>;
 
 
-vector<int> topologicalSortKhansAlgo(unordered_map<int, list<int>> &adjList) {
-    unordered_map<int,int> indegrees;
+
+vector<int> topologicalSortKhansAlgo(ADJLIST &adjList) {
+    INTMAP indegrees;
     for (auto node: adjList) {
         indegrees[node.first];
         for (auto neighbour: node.second) {

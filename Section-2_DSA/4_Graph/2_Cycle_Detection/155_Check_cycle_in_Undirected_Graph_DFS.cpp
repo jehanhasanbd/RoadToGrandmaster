@@ -2,8 +2,11 @@
 #include "../Graph.h"
 
 using namespace std;
+using ADJLIST = unordered_map<int, list<int>>;
+using BOOLMAP = unordered_map<int, bool>;
+using INTMAP = unordered_map<int, int>;
 
-bool dfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visited, int parent, int source) {
+bool dfs(ADJLIST &adjList, BOOLMAP &visited, int parent, int source) {
     visited[source] = true;
 
     for (auto neighbour: adjList[source]) {
@@ -21,10 +24,9 @@ bool dfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visit
     return false;
 }
 
-bool checkCycleDFS(unordered_map<int, list<int>> &adjList) {
-    unordered_map<int, bool> visited;
-    unordered_map<int, bool> dfsVisited;
-    vector<vector<int>> visitedSeq;
+bool checkCycleDFS(ADJLIST &adjList) {
+    BOOLMAP visited;
+    BOOLMAP dfsVisited;
     for (auto node: adjList) {
         if (!visited[node.first]) {
             if(dfs(adjList, visited, -1, node.first)) {

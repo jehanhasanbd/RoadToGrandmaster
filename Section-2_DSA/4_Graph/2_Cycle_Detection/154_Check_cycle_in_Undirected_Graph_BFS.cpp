@@ -3,7 +3,11 @@
 
 using namespace std;
 
-bool bfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visited, unordered_map<int,int> &parent, int source) {
+using ADJLIST = unordered_map<int, list<int>>;
+using BOOLMAP = unordered_map<int, bool>;
+using INTMAP = unordered_map<int, int>;
+
+bool bfs(ADJLIST &adjList, BOOLMAP &visited, INTMAP &parent, int source) {
     visited[source] = true;
     parent[source] = -1;
 
@@ -29,8 +33,8 @@ bool bfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visit
 
 }
 
-bool checkCycleBFS(unordered_map<int, list<int>> &adjList) {
-    unordered_map<int, bool> visited;
+bool checkCycleBFS(ADJLIST &adjList) {
+    BOOLMAP visited;
     unordered_map<int, int> parent;
     vector<vector<int>> visitedSeq;
     for (auto node: adjList) {

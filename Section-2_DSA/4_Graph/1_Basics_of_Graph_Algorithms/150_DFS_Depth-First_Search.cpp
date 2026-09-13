@@ -3,7 +3,11 @@
 
 using namespace std;
 
-bool dfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visited, int parent, int source) {
+using ADJLIST = unordered_map<int, list<int>>;
+using BOOLMAP = unordered_map<int, bool>;
+using INTMAP = unordered_map<int, int>;
+
+bool dfs(ADJLIST &adjList, BOOLMAP &visited, int parent, int source) {
     visited[source] = true;
 
     for (auto neighbour: adjList[source]) {
@@ -20,8 +24,8 @@ bool dfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visit
     return false;
 }
 
-bool checkCycleDFS(unordered_map<int, list<int>> &adjList) {
-    unordered_map<int, bool> visited;
+bool checkCycleDFS(ADJLIST &adjList) {
+    BOOLMAP visited;
     for (auto node: adjList) {
         if (!visited[node.first]) {
             vector<int> component;

@@ -2,8 +2,11 @@
 #include "../Graph.h"
 
 using namespace std;
+using ADJLIST = unordered_map<int, list<int>>;
+using BOOLMAP = unordered_map<int, bool>;
+using INTMAP = unordered_map<int, int>;
 
-void bfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visited, vector<int> &component, int source) {
+void bfs(ADJLIST &adjList, BOOLMAP &visited, vector<int> &component, int source) {
     visited[source] = true;
     component.push_back(source);
 
@@ -24,8 +27,8 @@ void bfs(unordered_map<int, list<int>> &adjList, unordered_map<int, bool> &visit
     }
 }
 
-vector<vector<int>> BFS(unordered_map<int, list<int>> &adjList) {
-    unordered_map<int, bool> visited;
+vector<vector<int>> BFS(ADJLIST &adjList) {
+    BOOLMAP visited;
     vector<vector<int>> visitedSeq;
     for (auto node: adjList) {
         if (!visited[node.first]) {
