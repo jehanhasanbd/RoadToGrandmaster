@@ -652,7 +652,7 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 167 | Floyd-Warshall (All pair shortest path) | [🔗 code](Section-2_DSA/4_Graph/4_Shortest_Path/167_Floyd-Warshall_All_pair_shortest_path.cpp)
+| 167 | Floyd-Warshall (All pair shortest path) | [🔨 issue](Section-2_DSA/4_Graph/4_Shortest_Path/167_Floyd-Warshall_All_pair_shortest_path.cpp)
 
 </details>
 
