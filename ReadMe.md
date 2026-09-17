@@ -661,8 +661,8 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 168 | Minimum Spanning Tree (Prim's Algorithm) | [⏳ pending]()
-| 169 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [⏳ pending]()
+| 168 | Minimum Spanning Tree (Prim's Algorithm) | [🔗 code](Section-2_DSA/4_Graph/5_Minimum_Spanning_Tree/168_Minimum_Spanning_Tree_Prim_Algorithm.cpp)
+| 169 | Minimum Spanning Tree (Kruskal Algorithm / Disjoint Set) | [🔗 code](Section-2_DSA/4_Graph/5_Minimum_Spanning_Tree/169_Minimum_Spanning_Tree_Kruskal_Algorithm_Disjoint_Set.cpp)
 
 </details>
 
@@ -1067,18 +1067,35 @@
 <details>
 <summary><b>Sorting Algorithms</b></summary>
 
-| # | Problem | Solution |
-|---|---------|----------|
-| 401 | Insertion Sort | [⏳ pending]()
-| 402 | Selection Sort | [⏳ pending]()
-| 403 | Bubble Sort | [⏳ pending]()
-| 404 | Count Sort | [⏳ pending]()
-| 405 | Quick Sort | [⏳ pending]()
-| 406 | Merge Sort | [⏳ pending]()
+
+| #   | Problem        | Best           | Average    | Worst      | Solution      |
+| --- | -------------- | -------------- | ---------- | ---------- | ------------- |
+| 401 | Insertion Sort | **O(n)**       | O(n²)      | O(n²)      | [🔗 code](Section-2_DSA/10_Sorting_Algorithms/401_Insertion_Sort.cpp) |
+| 402 | Selection Sort | **O(n²)**      | O(n²)      | O(n²)      | [🔗 code](Section-2_DSA/10_Sorting_Algorithms/402_Selection_Sort.cpp) |
+| 403 | Bubble Sort    | **O(n)**       | O(n²)      | O(n²)      | [🔗 code](Section-2_DSA/10_Sorting_Algorithms/403_Bubble_Sort.cpp) |
+| 404 | Count Sort     | **O(n + k)**   | O(n + k)   | O(n + k)   | [🔗 code](Section-2_DSA/10_Sorting_Algorithms/404_Count_Sort.cpp) |
+| 405 | Quick Sort     | **O(n log n)** | O(n log n) | O(n²)      | [🔗 code](Section-2_DSA/10_Sorting_Algorithms/405_Quick_Sort.cpp) |
+| 406 | Merge Sort     | **O(n log n)** | O(n log n) | O(n log n) | [🔗 code](Section-2_DSA/10_Sorting_Algorithms/406_Merge_Sort.cpp) |
+
+
 
 </details>
 
 ---
+
+[//]: # (| #   | Problem                                                                                                                                                                                                                                      | Best | Average | Worst | Solution |)
+
+[//]: # (| --- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ---- | ------- | ----- | -------- |)
+
+[//]: # (| 401 | <details><summary>Insertion Sort</summary><br>![Algorithm]&#40;img/dag.png&#41;</details>                                                                                                                                                            | **O&#40;n&#41;** | O&#40;n²&#41; | O&#40;n²&#41; | [🔗 code]&#40;Section-2_DSA/10_Sorting_Algorithms/401_Insertion_Sort.cpp&#41; |)
+
+[//]: # (| 402 | <details><summary>Selection Sort</summary><br>![Algorithm]&#40;Section-2_DSA/10_Sorting_Algorithms/402_Selection_Sort.png&#41;</details>                                                                                                             | **O&#40;n²&#41;** | O&#40;n²&#41; | O&#40;n²&#41; | [🔗 code]&#40;Section-2_DSA/10_Sorting_Algorithms/402_Selection_Sort.cpp&#41; |)
+
+[//]: # (| 403 | <details><summary>Bubble Sort</summary><br>![Algorithm]&#40;Section-2_DSA/10_Sorting_Algorithms/403_Bubble_Sort.png&#41;</details>                                                                                                                   | **O&#40;n&#41;** | O&#40;n²&#41; | O&#40;n²&#41; | [🔗 code]&#40;Section-2_DSA/10_Sorting_Algorithms/403_Bubble_Sort.cpp&#41; |)
+
+[//]: # ()
+[//]: # ()
+
 
 <div align="center">
 
