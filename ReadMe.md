@@ -311,21 +311,21 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 1 | Create first node | [⏳ pending]()
-| 2 | Add node at end | [⏳ pending]()
-| 3 | Add node at beginning | [⏳ pending]()
-| 4 | Add node at position | [⏳ pending]()
-| 5 | Delete first node | [⏳ pending]()
-| 6 | Delete last node | [⏳ pending]()
-| 7 | Delete node at position | [⏳ pending]()
-| 8 | Delete full linked list | [⏳ pending]()
-| 9 | Print Linked list | [⏳ pending]()
-| 10 | Count Node | [⏳ pending]()
-| 11 | Check ascending order | [⏳ pending]()
-| 12 | Check descending order | [⏳ pending]()
-| 13 | Search node | [⏳ pending]()
-| 14 | CRUD operations | [⏳ pending]()
-| 15 | Reverse linked list | [⏳ pending]()
+| 1 | Create first node | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/01_Create_first_node.cpp)
+| 2 | Add node at end | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/02_Add_node_at_end.cpp)
+| 3 | Add node at beginning | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/03_Add_node_at_beginning.cpp)
+| 4 | Add node at position | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/04_Add_node_at_position.cpp)
+| 5 | Delete first node | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/05_Delete_first_node.cpp)
+| 6 | Delete last node | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/06_Delete_last_node.cpp)
+| 7 | Delete node at position | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/07_Delete_node_at_position.cpp)
+| 8 | Delete full linked list | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/08_Delete_full_linked_list.cpp)
+| 9 | Print Linked list | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/09_Print_Linked_list.cpp)
+| 10 | Count Node | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/10_Count_Node.cpp)
+| 11 | Check ascending order | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/11_Check_ascending_order.cpp)
+| 12 | Check descending order | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/12_Check_descending_order.cpp)
+| 13 | Search node | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/13_Search_node.cpp)
+| 14 | CRUD operations | [⏳ pending](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/14_CRUD_operations.cpp)
+| 15 | Reverse linked list | [🔗 code](Section-2_DSA/1_Linked_List/1_Singly_Linked_List/15_Reverse_linked_list.cpp)
 
 </details>
 
@@ -334,15 +334,15 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 16 | Create first node (Doubly) | [⏳ pending]()
-| 17 | Add node at beginning (Doubly) | [⏳ pending]()
-| 18 | Add node at end (Doubly) | [⏳ pending]()
+| 16 | Create first node (Doubly) | [ 🔗code ](Section-2_DSA/1_Linked_List/2_Doubly_Linked_List/16_Create_first_node_Doubly.cpp)
+| 17 | Add node at beginning (Doubly) | [ 🔗code ](Section-2_DSA/1_Linked_List/2_Doubly_Linked_List/17_Add_node_at_beginning_Doubly.cpp)
+| 18 | Add node at end (Doubly) | [ 🔗code ](Section-2_DSA/1_Linked_List/2_Doubly_Linked_List/18_Add_node_at_end_Doubly.cpp)
 | 19 | Add node at position (Doubly) | [⏳ pending]()
 | 20 | Delete first node (Doubly) | [⏳ pending]()
 | 21 | Delete last node (Doubly) | [⏳ pending]()
 | 22 | Delete node at position (Doubly) | [⏳ pending]()
 | 23 | Delete full linked list (Doubly) | [⏳ pending]()
-| 24 | Print forward (Doubly) | [⏳ pending]()
+| 24 | Print forward (Doubly) | [ 🔗code ](Section-2_DSA/1_Linked_List/2_Doubly_Linked_List/24_Print_forward_Doubly.cpp)
 | 25 | Print backward (Doubly) | [⏳ pending]()
 | 26 | Count nodes (Doubly) | [⏳ pending]()
 | 27 | Search node (Doubly) | [⏳ pending]()
@@ -1011,9 +1011,9 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 366 | Maximum subarray sum (Kadane's Algorithm) | [⏳ pending]()
+| 366 | Maximum subarray sum (Kadane's Algorithm) | [🔗 code](Section-2_DSA/8_Divide_and_Conquer/366_Maximum_subarray_sum_Kadane.cpp)
 | 367 | Majority element (⌊n/2⌋ times) | [⏳ pending]()
-| 368 | Find minimum-maximum in array | [⏳ pending]()
+| 368 | Find minimum-maximum in array | [🔗 code](Section-2_DSA/8_Divide_and_Conquer/368_Find_minimum-maximum_in_array.cpp)
 | 369 | Kth largest element | [⏳ pending]()
 | 370 | Count even numbers in an array | [⏳ pending]()
 | 371 | Print odd numbers of an array | [⏳ pending]()
