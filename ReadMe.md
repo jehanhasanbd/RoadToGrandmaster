@@ -286,6 +286,383 @@
 
 </details>
 
+<details>
+<summary><b>📚 J) Star Pattern</b></summary>
+
+- **[ 🔗 code  ](1.cpp)**
+
+<img src="img/star/1.png">
+
+- **[ 🔗 code  ](2.cpp)**
+
+<img src="img/star/2.png">
+
+- **[ 🔗 code  ](3.cpp)**
+
+<img src="img/star/3.png">
+
+- **[ 🔗 code  ](4.cpp)**
+
+<img src="img/star/4.png">
+
+- **[ 🔗 code  ](5.cpp)**
+
+<img src="img/star/5.png">
+
+- **[ 🔗 code  ](6.cpp)**
+
+<img src="img/star/6.png">
+
+- **[ 🔗 code  ](7.cpp)**
+
+<img src="img/star/7.png">
+
+- **[ 🔗 code  ](8.cpp)**
+
+<img src="img/star/8.png">
+
+- **[ 🔗 code  ](9.cpp)**
+
+<img src="img/star/9.png">
+
+
+- **[ 🔗 code  ](10.cpp)**
+
+<img src="img/star/10.png">1
+
+- **[ 🔗 code  ](11.cpp)**
+-
+<img src="img/star/11.png">
+
+
+- **[ 🔗 code  ](12.cpp)**
+
+<img src="img/star/12.png">
+
+- **[ 🔗 code  ](13.cpp)**
+
+<img src="img/star/13.png">
+
+- **[ 🔗 code  ](14.cpp)**
+
+<img src="img/star/14.png">
+
+- **[ 🔗 code  ](15.cpp)**
+
+<img src="img/star/15.png">
+
+- **[ 🔗 code  ](16.cpp)**
+
+<img src="img/star/16.png">
+
+- **[ 🔗 code  ](17.cpp)**
+
+<img src="img/star/17.png">
+
+- **[ 🔗 code  ](18.cpp)**
+
+<img src="img/star/18.png">
+
+- **[ 🔗 code  ](19.cpp)**
+
+<img src="img/star/19.png">
+
+- **[ 🔗 code  ](20.cpp)**
+
+<img src="img/star/20.png">
+
+- **[ 🔗 code  ](21.cpp)**
+
+<img src="img/star/21.png">
+
+- **[ 🔗 code  ](22.cpp)**
+
+<img src="img/star/22.png">
+
+- **[ 🔗 code  ](23.cpp)**  
+
+<img src="img/star/23.png">
+
+
+- **[ 🔗 code  ](24.cpp)**
+
+<img src="img/star/24.png">
+
+- **[ 🔗 code  ](25.cpp)**
+-
+<img src="img/star/25.png">
+
+
+- **[ 🔗 code  ](26.cpp)**
+
+<img src="img/star/26.png">
+
+- **[ 🔗 code  ](27.cpp)**
+
+<img src="img/star/27.png">
+
+- **[ 🔗 code  ](28.cpp)**
+
+<img src="img/star/28.png">
+
+</details>
+
+<details>
+<summary><b>📚 K) Number Pattern</b></summary>
+
+
+# Star pattern
+
+- **[🔗 code](1.cpp)**
+
+<img src="img/number/1.png">
+
+- **[🔗 code](2.cpp)**
+
+<img src="img/number/2.png">
+
+- **[🔗 code](3.cpp)**
+
+<img src="img/number/3.png">
+
+- **[🔗 code](4.cpp)**
+
+<img src="img/number/4.png">
+
+- **[🔗 code](5.cpp)**
+
+<img src="img/number/5.png">
+
+- **[🔗 code](6.cpp)**
+
+<img src="img/number/6.png">
+
+- **[🔗 code](7.cpp)**
+
+<img src="img/number/7.png">
+
+- **[🔗 code](8.cpp)**
+
+<img src="img/number/8.png">
+
+- **[🔗 code](9.cpp)**
+
+<img src="img/number/9.png">
+
+
+- **[ 🔗 code ](10.cpp)**
+
+<img src="img/number/10.png">1
+
+- **[ 🔗 code ](11.cpp)**
+
+<img src="img/number/11.png">
+
+
+- **[ 🔗 code ](12.cpp)**
+
+<img src="img/number/12.png">
+
+- **[ 🔗 code ](13.cpp)**
+
+<img src="img/number/13.png">
+
+- **[ 🔗 code ](14.cpp)**
+
+<img src="img/number/14.png">
+
+- **[ 🔗 code ](15.cpp)**
+
+<img src="img/number/15.png">
+
+- **[ 🔗 code ](16.cpp)**
+
+<img src="img/number/16.png">
+
+- **[ 🔗 code ](17.cpp)**
+
+<img src="img/number/17.png">
+
+- **[ 🔗 code ](18.cpp)**
+
+<img src="img/number/18.png">
+
+- **[ 🔗 code ](19.cpp)**   [In]
+
+<img src="img/number/19.png">
+
+- **[ 🔗 code ](20.cpp)**
+
+<img src="img/number/20.png">
+
+- **[ 🔗 code ](21.cpp)**
+
+<img src="img/number/21.png">
+
+- **[ 🔗 code ](22.cpp)**
+
+<img src="img/number/22.png">
+
+- **[ 🔗 code ](23.cpp)**
+
+<img src="img/number/23.png">
+
+
+- **[ 🔗 code ](25.cpp)**
+
+<img src="img/number/24.png">
+
+- **[ 🔗 code ](25.cpp)**
+
+<img src="img/number/25.png">
+
+
+- **[ 🔗 code ](26.cpp)**
+
+<img src="img/number/26.png">
+
+- **[ 🔗 code ](27.cpp)**
+
+<img src="img/number/27.png">
+
+- **[ 🔗 code ](28.cpp)**
+
+<img src="img/number/28.png">
+
+
+
+- **[ 🔗 code ](29.cpp)**
+
+<img src="img/number/29.png">
+
+- **[ 🔗 code ](30.cpp)**
+
+<img src="img/number/30.png">
+
+- **[ 🔗 code ](31.cpp)**
+
+<img src="img/number/31.png">
+
+- **[ 🔗 code ](32.cpp)**
+
+<img src="img/number/32.png">
+
+- **[ 🔗 code ](33.cpp)**
+
+<img src="img/number/33.png">
+
+- **[ 🔗 code ](34.cpp)**
+
+<img src="img/number/34.png">
+
+- **[ 🔗 code ](35.cpp)**
+
+<img src="img/number/35.png">
+
+- **[ 🔗 code ](36.cpp)**
+
+<img src="img/number/36.png">
+
+- **[ 🔗 code ](37.cpp)**
+
+<img src="img/number/37.png">
+
+
+- **[ 🔗 code ](38.cpp)**
+
+<img src="img/number/38.png">1
+
+- **[ 🔗 code ](39.cpp)**
+
+<img src="img/number/39.png">
+
+
+- **[ 🔗 code ](40.cpp)**
+
+<img src="img/number/40.png">
+
+- **[ 🔗 code ](41.cpp)**
+
+<img src="img/number/41.png">
+
+- **[ 🔗 code ](42.cpp)**
+
+<img src="img/number/42.png">
+
+- **[ 🔗 code ](43.cpp)**
+
+<img src="img/number/43.png">
+
+- **[ 🔗 code ](44.cpp)**  [In]
+
+<img src="img/number/44.png">
+
+- **[ 🔗 code ](45.cpp)**
+
+<img src="img/number/45.png">
+
+- **[ 🔗 code ](46.cpp)**
+
+<img src="img/number/46.png">
+
+- **[ 🔗 code ](47.cpp)**
+
+<img src="img/number/47.png">
+
+- **[ 🔗 code ](48.cpp)**
+
+<img src="img/number/48.png">
+
+- **[ 🔗 code ](49.cpp)**
+
+<img src="img/number/49.png">
+
+- **[ 🔗 code ](50.cpp)**
+
+<img src="img/number/50.png">
+
+- **[ 🔗 code ](51.cpp)**
+
+<img src="img/number/51.png">
+
+
+- **[ 🔗 code ](52.cpp)**
+
+<img src="img/number/52.png">
+
+- **[ 🔗 code ](53.cpp)**
+-
+<img src="img/number/53.png">
+
+
+- **[ 🔗 code ](54.cpp)**
+
+<img src="img/number/54.png">
+
+- **[ 🔗 code ](55.cpp)**
+
+<img src="img/number/55.png">
+
+- **[ 🔗 code ](56.cpp)**
+
+<img src="img/number/56.png">
+
+
+- **[ 🔗 code ](57.cpp)**
+
+<img src="img/number/57.png">
+
+- **[ 🔗 code ](58.cpp)**
+
+<img src="img/number/58.png">
+
+- **[ 🔗 code ](59.cpp)**
+
+<img src="img/number/59.png">
+
+</details>
+
+
 ---
 
 ## Section - 2. DSA
@@ -711,10 +1088,10 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 182 | Recursive implementation of factorial | [⏳ pending]()
-| 183 | Recursive power calculation ($x^y$) | [⏳ pending]()
-| 184 | Recursive nth Fibonacci number | [⏳ pending]()
-| 185 | Recursive palindrome check | [⏳ pending]()
+| 182 | Recursive implementation of factorial | [🔗 code](Section-2_DSA/5_Recursion_Backtracking/1_General_Basics/182_Recursive_implementation_of_factorial.cpp)
+| 183 | Recursive power calculation ($x^y$) | [🔗 code](Section-2_DSA/5_Recursion_Backtracking/1_General_Basics/183_Recursive_power_calculation.cpp)
+| 184 | Recursive nth Fibonacci number | [🔗 code](Section-2_DSA/5_Recursion_Backtracking/1_General_Basics/184_Recursive_nth_Fibonacci_number.cpp)
+| 185 | Recursive palindrome check | [🔗 code](Section-2_DSA/5_Recursion_Backtracking/1_General_Basics/185_Recursive_palindrome_check.cpp)
 | 186 | Recursive even numbers in range | [⏳ pending]()
 
 </details>
@@ -724,13 +1101,13 @@
 
 | # | Problem | Solution |
 |---|---------|----------|
-| 187 | Print array in order | [⏳ pending]()
-| 188 | Print array in reverse order | [⏳ pending]()
-| 189 | Find sum of array elements | [⏳ pending]()
-| 190 | Find product of array elements | [⏳ pending]()
-| 191 | Find maximum element | [⏳ pending]()
-| 192 | Find minimum element | [⏳ pending]()
-| 193 | Find average of elements | [⏳ pending]()
+| 187 | Print array in order | [🔗 code](Section-2_DSA/5_Recursion_Backtracking/1D_Array_Operations/187_Print_array_in_order.cpp)
+| 188 | Print array in reverse order | [🔗 code](Section-2_DSA/5_Recursion_Backtracking/1D_Array_Operations/188_Print_array_in_reverse_order.cpp)
+| 189 | Find sum of array elements | [🔗 code](Section-2_DSA/5_Recursion_Backtracking/1D_Array_Operations/189_Find_sum_of_array_elements.cpp)
+| 190 | Find product of array elements | [🔗 code](Section-2_DSA/5_Recursion_Backtracking/1D_Array_Operations/190_Find_product_of_array_elements.cpp)
+| 191 | Find maximum element | [🔗 code](Section-2_DSA/5_Recursion_Backtracking/1D_Array_Operations/191_Find_maximum_element.cpp)
+| 192 | Find minimum element | [🔗 code](Section-2_DSA/5_Recursion_Backtracking/1D_Array_Operations/192_Find_minimum_element.cpp)
+| 193 | Find average of elements | [🔗 code](Section-2_DSA/5_Recursion_Backtracking/1D_Array_Operations/193_Find_average_of_elements.cpp)
 | 194 | Print odd/even numbers | [⏳ pending]()
 | 195 | Print prime numbers | [⏳ pending]()
 | 196 | Count odd/even numbers | [⏳ pending]()
